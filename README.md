@@ -5,7 +5,7 @@
 -   I hope to collaborate on any projects that I can to help learn new skills and practices, and contribute to an incredible final solution. 
 -   I am ready and willing to gain new experience and insight in all levels of software deveopment! Whether that be new games, or any project someone may need assitance on.
 -   Please don't hesitate to reach out on help with your next project!
-- 📫 Email - stephennelson1@charter.net
+- 📫 Email - stevenelsoncpp@gmail.com
 
 <!---
 Avelion114/Avelion114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
